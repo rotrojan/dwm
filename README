@@ -1,3 +1,18 @@
+"------------------------------------------------------------------------------"
+"  ____                 _____                                                  "
+" /\  _`\    __        /\  __`\          DWM, Dynamic Window Manager           "
+" \ \ \L\ \ /\_\     __\ \ \/\ \                                               "
+"  \ \  _ <'\/\ \  /'_ `\ \ \ \ \        https://dwm.suckless.org/             "
+"   \ \ \L\ \\ \ \/\ \L\ \ \ \_\ \                                             "
+"    \ \____/ \ \_\ \____ \ \_____\      patched by BigO, github.com/rotrojan  "
+"     \/___/   \/_/\/___L\ \/_____/                                            "
+"                    /\____/             rotrojan@student.42.fr                "
+"                    \_/__/                                                    "
+"------------------------------------------------------------------------------"
+
+Applied patches : systray, autostart, restartsig, fullgaps, deck layout and
+click on focus.
+
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
